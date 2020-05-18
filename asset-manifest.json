@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Anand02/Anand02.github.io.git/static/css/main.b9d1100b.chunk.css",
+    "main.js": "/Anand02/Anand02.github.io.git/static/js/main.f825a0be.chunk.js",
+    "main.js.map": "/Anand02/Anand02.github.io.git/static/js/main.f825a0be.chunk.js.map",
+    "runtime-main.js": "/Anand02/Anand02.github.io.git/static/js/runtime-main.37ba2296.js",
+    "runtime-main.js.map": "/Anand02/Anand02.github.io.git/static/js/runtime-main.37ba2296.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Anand02/Anand02.github.io.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.be6cf2b4.chunk.js": "/Anand02/Anand02.github.io.git/static/js/2.be6cf2b4.chunk.js",
+    "static/js/2.be6cf2b4.chunk.js.map": "/Anand02/Anand02.github.io.git/static/js/2.be6cf2b4.chunk.js.map",
+    "index.html": "/Anand02/Anand02.github.io.git/index.html",
+    "precache-manifest.2da5bd7df1d995bb4e3583ab92af2989.js": "/Anand02/Anand02.github.io.git/precache-manifest.2da5bd7df1d995bb4e3583ab92af2989.js",
+    "service-worker.js": "/Anand02/Anand02.github.io.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Anand02/Anand02.github.io.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.b9d1100b.chunk.css.map": "/Anand02/Anand02.github.io.git/static/css/main.b9d1100b.chunk.css.map",
+    "static/js/2.be6cf2b4.chunk.js.LICENSE.txt": "/Anand02/Anand02.github.io.git/static/js/2.be6cf2b4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Anand02/Anand02.github.io.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ba2296.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.be6cf2b4.chunk.js",
+    "static/css/main.b9d1100b.chunk.css",
+    "static/js/main.f825a0be.chunk.js"
+  ]
+}
